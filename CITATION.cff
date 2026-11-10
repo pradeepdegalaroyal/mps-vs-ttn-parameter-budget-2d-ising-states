@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Parameter Budget of Matrix Product States versus Tree Tensor Networks on Two-Dimensional Ising States"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+repository-code: "https://github.com/pradeepdegalaroyal/mps-vs-ttn-parameter-budget-2d-ising-states"
+version: "0.1.0"
+date-released: "2026-11-10"
+license: MIT
+keywords:
+  - tensor networks
+  - matrix product states
+  - tree tensor networks
+  - quantum simulation
+  - transverse-field Ising model
